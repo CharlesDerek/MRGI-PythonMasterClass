@@ -1,5 +1,8 @@
 ## MRGInnovations Software & Technology
-------------------------------------
+**Innovating Customized Applications, Software & Website Platforms.**
+![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-Animated-single.gif)
+
+
 **Programmer: Charles Derek**
 
 Please use the software and following documentation at your own risk.
@@ -10,6 +13,9 @@ By using this Software, you are agreeing that MRGI Software & Technology and Pro
 
 
 Herein is an outline of the the workflow built inside the Python Master Class (udemy):
+
+------------------------------------
+
 
 Discussion 01-Object-and-Data-Structure-Basics	modified dir structure
 
